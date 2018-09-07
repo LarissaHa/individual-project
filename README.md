@@ -1,4 +1,4 @@
-# Individual Project HWS2018
+# Individual Project FSS2018
 Analyzing Learning and Working Behaviour of Students with E-Learning Support
 
 With  proceeding  digitization  in  educational  realms,  today’s  learning  more  and
@@ -41,5 +41,9 @@ students, or weaker students to seek the company of better students to make pass
 3.4 - What about predicting not only 2 but 3 classes, with a "risky" category in the middle around the passing threshold?
 
 3.5 - What happens, if we include ILIAS data (and therefore lose a lot of records)?
+
+
+
+Because of privacy protection issues, I cannot provide the full data sets.
 
 *If you have questions or found any errors, feel free to contact me!*
