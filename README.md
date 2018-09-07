@@ -11,11 +11,13 @@ online, are recorded and stored and can be therefore used for data analysis.
 The underlying goal of this project and the related report at hand is to connect
 the data of LMS usage of students to their exam results, and to answer some of the
 following questions en route:
+
 * How do students work with the e-learning system?
 * Do more active online-users yield an advantage for their studies?
 * Can we predict the failure of students (and how early during the ongoing
 semester)?
 * What are the possibilities of these methods, given we had more data?
+
 This project took place in the Spring Semester 2018 under the supervision of Prof.
 Dr.  Heiko Paulheim (Chair for Data Science), and in close collaboration with the
 Computing Center and Dr.  Daniel Klasen (Chair of Economic and Business Edu-
@@ -31,7 +33,13 @@ data.
 students, or weaker students to seek the company of better students to make passing the course more easily.
 
 3.1 - Can we predict failing/passing students and how good?
+
 3.2 - How evolves prediction accuracy over the weeks of the semester?
+
 3.3 - Can we predict better, if we only include those students who really tried to write the exam (and were not failing "on purpose")?
+
 3.4 - What about predicting not only 2 but 3 classes, with a "risky" category in the middle around the passing threshold?
+
 3.5 - What happens, if we include ILIAS data (and therefore lose a lot of records)?
+
+*If you have questions or found any errors, feel free to contact me!*
