@@ -1,27 +1,14 @@
 # Individual Project FSS2018
 Analyzing Learning and Working Behaviour of Students with E-Learning Support
 
-This project took place in the Spring Semester 2018 under the supervision of Prof.
-Dr.  Heiko Paulheim (Chair for Data Science, University of Mannheim), and in close collaboration with the
-Computing Center University of Mannheim and Dr.  Daniel Klasen (Chair of Economic and Business Edu-
-cation - Learning, Design and Technology, University of Mannheim), who provided access to the collected
-data.
+This project took place in the Spring Semester 2018 under the supervision of [Prof. Dr.  Heiko Paulheim](https://dws.informatik.uni-mannheim.de/en/people/professors/dr-heiko-paulheim/) (Chair for Data Science, University of Mannheim), and in close collaboration with the Computing Center University of Mannheim and [Dr. Daniel Klasen](https://ifenthaler.bwl.uni-mannheim.de/team/dr_daniel_klasen/) (Chair of Economic and Business Education - Learning, Design and Technology, University of Mannheim), who provided access to the collected data.
 
-With  proceeding  digitization  in  educational  realms,  today’s  learning  more  and
-more involves the use of Learning Management Systems (LMS). These systems
-(like ILIAS in the actual case) can be customized to individual needs and accessed
-and used with an ordinary browser. Within this online e-learning system, lecturers,
-tutors, and students are able to communicate and work together in various differ-
-ent ways.  All this actions and connections between users, as they are happening
-online, are recorded and stored and can be therefore used for data analysis.
-The underlying goal of this project and the related report at hand is to connect
-the data of LMS usage of students to their exam results, and to answer some of the
-following questions en route:
+With  proceeding  digitization  in  educational  realms,  today’s  learning  more  and more involves the use of Learning Management Systems (LMS). These systems (like ILIAS in the actual case) can be customized to individual needs and accessed
+and used with an ordinary browser. Within this online e-learning system, lecturers, tutors, and students are able to communicate and work together in various different ways.  All this actions and connections between users, as they are happening online, are recorded and stored and can be therefore used for data analysis. The underlying goal of this project and the related report at hand is to connect the data of LMS usage of students to their exam results, and to answer some of the following questions en route:
 
 * How do students work with the e-learning system?
 * Do more active online-users yield an advantage for their studies?
-* Can we predict the failure of students (and how early during the ongoing
-semester)?
+* Can we predict the failure of students (and how early during the ongoing semester)?
 * What are the possibilities of these methods, given we had more data?
 
 ## Content
